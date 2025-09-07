@@ -4,3 +4,6 @@
 [submodule "modelApi"]
 	path = modelApi
 	url = https://github.com/shreyaj1/modelApi
+[submodule "model-train"]
+	path = model-train
+	url = https://github.com/shreyaj1/model-train
