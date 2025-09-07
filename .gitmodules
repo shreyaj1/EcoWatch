@@ -1,3 +1,6 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/shreyaj1/website
+[submodule "modelApi"]
+	path = modelApi
+	url = https://github.com/shreyaj1/modelApi
