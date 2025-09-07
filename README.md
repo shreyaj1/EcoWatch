@@ -1,7 +1,7 @@
 # ♻️ EcoWatch ✨  
 **AI-based Waste Detection & Real-Time Alert Dashboard using YOLOv5**  
 
-EcoWatch is a computer vision-based system (originally developed during the **Smart India Hackathon - SIH**) to automate cleanliness monitoring across public spaces.  
+EcoWatch is a computer vision-based system to automate cleanliness monitoring across public spaces.  
 It uses a custom-trained **YOLOv5** model to detect garbage in surveillance footage, trigger **real-time alerts**, and display actionable insights via an **interactive dashboard**.  
 
 The project aims to ensure **hygiene, transparency, and accountability** within monitored environments.  
